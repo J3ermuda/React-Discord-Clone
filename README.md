@@ -7,6 +7,7 @@ Currently learning WebRTC to implement voice!
 Originally started off on a test project for learning Functional Components, Hooks, Socket IO and TypeScript ended up being a Discord Clone.
 
 ![layout image](public/app.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJ3ermuda%2FReact-Discord-Clone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJ3ermuda%2FReact-Discord-Clone?ref=badge_shield)
 
 Live Version http://ericellb.github.io/React-Discord-Clone
 
@@ -44,3 +45,6 @@ Planned Features
 Copyright Eric Ellbogen 2019
 
 - This project is under the **GNU V3** license. [Find it here](https://github.com/ericellb/React-Discord-Clone/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJ3ermuda%2FReact-Discord-Clone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJ3ermuda%2FReact-Discord-Clone?ref=badge_large)
